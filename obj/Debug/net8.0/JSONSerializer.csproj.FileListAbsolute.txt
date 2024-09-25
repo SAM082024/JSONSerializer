@@ -1,0 +1,14 @@
+C:\Users\virte\Desktop\JSONSerializer\bin\Debug\net8.0\JSONSerializer.exe
+C:\Users\virte\Desktop\JSONSerializer\bin\Debug\net8.0\JSONSerializer.deps.json
+C:\Users\virte\Desktop\JSONSerializer\bin\Debug\net8.0\JSONSerializer.runtimeconfig.json
+C:\Users\virte\Desktop\JSONSerializer\bin\Debug\net8.0\JSONSerializer.dll
+C:\Users\virte\Desktop\JSONSerializer\bin\Debug\net8.0\JSONSerializer.pdb
+C:\Users\virte\Desktop\JSONSerializer\obj\Debug\net8.0\JSONSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virte\Desktop\JSONSerializer\obj\Debug\net8.0\JSONSerializer.AssemblyInfoInputs.cache
+C:\Users\virte\Desktop\JSONSerializer\obj\Debug\net8.0\JSONSerializer.AssemblyInfo.cs
+C:\Users\virte\Desktop\JSONSerializer\obj\Debug\net8.0\JSONSerializer.csproj.CoreCompileInputs.cache
+C:\Users\virte\Desktop\JSONSerializer\obj\Debug\net8.0\JSONSerializer.dll
+C:\Users\virte\Desktop\JSONSerializer\obj\Debug\net8.0\refint\JSONSerializer.dll
+C:\Users\virte\Desktop\JSONSerializer\obj\Debug\net8.0\JSONSerializer.pdb
+C:\Users\virte\Desktop\JSONSerializer\obj\Debug\net8.0\JSONSerializer.genruntimeconfig.cache
+C:\Users\virte\Desktop\JSONSerializer\obj\Debug\net8.0\ref\JSONSerializer.dll
